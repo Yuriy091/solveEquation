@@ -23,8 +23,3 @@ function solveEquation (a, b, c) {
 }
 console.log(solveEquation(1,12,36));
 
-let name = "Yurii";
-let age = 32;
-console.log(name, age);
-
-
