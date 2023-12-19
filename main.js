@@ -5,7 +5,7 @@
 function solveEquation (a, b, c) {
     if(a == 0)
         return false;
-    let res = {};
+    let res = [];
     let D = b * b - 4 * a * c;
     console.log('D = ' + D);
     if(D < 0)
